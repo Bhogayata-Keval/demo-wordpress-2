@@ -1,0 +1,12 @@
+{
+        "services": {
+                "wpservice": {
+                    "name": "WP Service 1",
+                    "root_dir": "/",
+                    "build": [],
+                    "command": "",
+                    "arguments" : [],
+                    "port": "80"
+                }
+        }
+}
